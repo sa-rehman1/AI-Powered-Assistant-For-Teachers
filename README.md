@@ -52,7 +52,7 @@ Absolutely ✅ — here’s the **final, fully corrected README.md** with the Yo
 - **LangChain**
 - **RAG (Retrieval-Augmented Generation)**
 - **Pandas / Data Analysis**
-- **Streamlit / Gradio (if used for UI)**
+- **Streamlit **
 - **Matplotlib / Seaborn (for data visualization)**
 
 ---
@@ -114,21 +114,9 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss.
-
----
-
-## 📜 License
-
-MIT License © 2025 [Your Name]
 
 ```
 
 ---
 
-This version is **error-free, properly formatted**, and the YouTube link works.  
 
-If you want, I can also **create a ready-to-use `requirements.txt`** for this project so anyone can run it immediately. Do you want me to do that?
-```

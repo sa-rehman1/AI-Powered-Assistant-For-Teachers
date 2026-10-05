@@ -4,7 +4,7 @@
 
 🚀 An **AI-powered assistant for teachers**, built with **LangChain, Python, and RAG**, that simplifies classroom management, lesson planning, student performance analysis, and report generation.  
 
-🎥 **Demo Video:** [Watch on YouTube](https://www.youtube.com/watch?v=v2_-57AGEoU)
+
 
 ---
 
